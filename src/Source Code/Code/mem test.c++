@@ -1,0 +1,1 @@
+#include "newstring.h"#include <iostream.h>void main(void){	string_class *string;		for (; ;)	{		string=new string_class;		delete string;	}}

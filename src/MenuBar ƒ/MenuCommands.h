@@ -1,0 +1,1 @@
+// Constants of type MessageT for menus specific to this application// Inventory menuconst MessageT cmd_mark_j = 1001;const MessageT cmd_mark_o = 1002;const MessageT cmd_claire = 1003;const MessageT cmd_mel = 1004;const MessageT cmd_alex = 1005;

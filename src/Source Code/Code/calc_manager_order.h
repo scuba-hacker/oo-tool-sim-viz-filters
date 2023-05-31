@@ -1,0 +1,1 @@
+#include "rCalculatorClass.h"#include "calcobject.h"#include "newstring.h"class calc_manager_order{	public:		string_class calculator_name;		string_class instruction;				calc_manager_order();		~calc_manager_order();		calc_manager_order(const calc_manager_order &original);		calc_manager_order& operator=(calc_manager_order &source);};
